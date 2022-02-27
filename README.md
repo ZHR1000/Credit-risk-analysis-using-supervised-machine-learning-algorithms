@@ -5,10 +5,12 @@ as the interest rate charged. The borrower can be a person or business. Banks ca
 giving credit to just those borrowers who are most likely to repay their debts while reducing losses by 
 not providing credit to those who are likely to fail on their loans.
 
-Problem Statement: Building a model to estimate how capable each applicant is of repaying a loan, 
-with the goal of only approving loans for those who are most likely to repay them. We want to be very 
-certain when we categorize someone as a non-defaulter as the cost of making a mistake might be 
-quite costly to organizations. 
+Problem Statement:  With the emergence of the digitization of housing finance in India, 
+the home loan market is experiencing an enormous opportunity due to increasing internet and smartphone penetration. 
+Consequently, the home loan market grew nearly 30% between 2016 to 2021, adding to the increased possibility of credit risk.
+Thus, the project aims to utilize advanced ML techniques to predict credit defaulters for financial
+institutions and identify the right customers given their credit histories and improve profitability.
+ 
 
 Approach: the project retained following algorithms
 ▪ Logistic Regression
